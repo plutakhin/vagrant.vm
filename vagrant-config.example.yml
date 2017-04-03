@@ -1,0 +1,20 @@
+# Guest OS timezone
+timezone: Europe/Moscow
+
+# Are we need check box updates for every 'vagrant up'?
+box_check_update: false
+
+# Virtual machine name
+machine_name: vagrant.vm
+
+# Virtual machine IP
+ip: 10.0.0.10
+
+# Virtual machine CPU cores number
+cpus: 2
+
+# Virtual machine RAM
+memory: 1024
+
+user_name: user
+user_password: password
